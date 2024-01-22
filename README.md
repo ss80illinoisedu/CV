@@ -1,2 +1,0 @@
-# CV
-Siddhanth Sabharwal CV
