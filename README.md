@@ -1,2 +1,2 @@
-# resume
-Siddhanth Sabharwal Resume
+# CV
+Siddhanth Sabharwal CV
